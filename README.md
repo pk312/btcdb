@@ -19,7 +19,7 @@ Es können eigene Transaktionen eingetragen werden (auch Transaktionen aus der V
 ### Währungen:
 - AUD, CAD, CHF, DKK, EUR, GBP, INR, JPY, MXN, NOK, NZD, RUB, SEK, SGD, TRY, USD, ZAR
 
-### nfos zu diesem Dashboard:
+### Infos zu diesem Dashboard:
 - lokale HTML-Datei (keine Installationen, keine Browser-Plugins notwendig, keine Anmeldungen oder Registrierungen) - Single Page Application
 - einfache und intuitive Bedienung, keine Vorkenntnisse nötig
 - Transaktionsdaten werden nur lokal gespeichert
