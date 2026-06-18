@@ -1,4 +1,3 @@
-### DE:
 ## Bitcoin-only Dashboard
 Dieses Dashboard stellt eine optimierte Übersicht aller relevanten Informationen rund um deinen Bitcoin-Bestand zur Verfügung. Es soll Neueinsteigern aber auch langjährigen Bitcoin-Investoren helfen, einen ausgewogenen Überblick der getätigten Transaktionen zu erhalten und mit aktuellen Marktwerten abzugleichen.
 Es können eigene Transaktionen eingetragen werden (auch Transaktionen aus der Vergangenheit). Das Dashboard wertet diese Daten aus und visualisiert anhand der aktuellen Marktwerte die eigenen BTC-Bestände.
@@ -36,6 +35,12 @@ Die Datei darf für eigene Zwecke verwendet und weitergeben werden, sofern keine
 
 <b>Jegliche Bearbeitung, Modifikation oder Weitergabe in veränderter Form ist ausdrücklich untersagt.<b>
 Die Datei bleibt geistiges Eigentum des Urhebers.
+
+### Download-Anleitung
+1.) DB_BTC.html in der Tabelle oben anklicken
+  Die Ansicht wechselt zu btcdb/DB_BTC.html
+2.) Im oberen Bereich ( branch: Main - btcdb/DB_BTC.html ) ganz rechts auf den Button [...] (More file option) klicken und "Download" auswählen
+
 
 ---
 ### EN:
