@@ -37,10 +37,8 @@ Die Datei darf für eigene Zwecke verwendet und weitergeben werden, sofern keine
 Die Datei bleibt geistiges Eigentum des Urhebers.
 
 ### Download-Anleitung
-- 1. DB_BTC.html in der Tabelle oben anklicken
-  Die Ansicht wechselt zu btcdb/DB_BTC.html
-- 2. Im oberen Bereich ( branch: Main - btcdb / DB_BTC.html ) ganz rechts auf den Button [...] (More file actions) klicken und "Download" auswählen
-  Download wird gestartet
+- 1. DB_BTC.html in der Tabelle oben anklicken. Die Ansicht wechselt zu "btcdb/DB_BTC.html"
+- 2. Im oberen Bereich ( branch: Main - btcdb / DB_BTC.html ) ganz rechts auf den Button [...] (More file actions) klicken und "Download" auswählen. Download wird gestartet
 
 
 <hr>
@@ -83,7 +81,5 @@ The file remains the intellectual property of the author.
 
 ### Download Instructions
 
-- 1. Click DB_BTC.html in the table above.
-  The view will change to btcdb/DB_BTC.html.
-- 2. In the upper section (branch: Main - btcdb / DB_BTC.html), click the [...] (More file actions) button on the far right and select "Download".
-  The download will start.
+- 1. Click DB_BTC.html in the table above. The view will change to "btcdb/DB_BTC.html".
+- 2. In the upper section (branch: main - btcdb / DB_BTC.html), on the far right click the [...] button (More file actions) and select "Download". The download will start.
